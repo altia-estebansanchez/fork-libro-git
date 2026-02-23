@@ -1,2 +1,2 @@
 Alfredo Sánchez Alberca (asalber@ceu.es)
-Training IT (info@trainingit.es)
+Curso Git Training IT (info@trainingit.es)
